@@ -1,0 +1,19 @@
+legend {
+  background-color: darkslategrey;
+  border: solid; border-radius: 15px;
+  font-size: larger; font-weight: 30px;
+  font-style: normal; color: azure;
+}
+li {
+  font-style: normal; color:rgb(8, 83, 117)}
+h1 {
+  font-size: 80px; border: 5px; color: rgb(199, 165, 228); 
+}
+h2 {
+  color:deepskyblue
+}
+h3 {background-color: darkslategrey;
+  border: solid; border-radius: 10px;
+  font-size: larger; font-weight: 30px;
+  font-style: normal; color: azure;}
+fieldset{ color: rgb(109, 62, 8);font-size: larger; font-weight: solid; }
