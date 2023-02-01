@@ -1,3 +1,4 @@
+console.log("inicio");
 let Shelby =  document.getElementById("Shelby");
     
 let Apodo = document.getElementById("Apodo");
